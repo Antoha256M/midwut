@@ -10,3 +10,4 @@
              switcher-key="Section Two">
         <p>The content that should appear when the Section Two is selected.</p>
     </chapter>
+</topic>
